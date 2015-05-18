@@ -2,8 +2,14 @@ Add local changes.
 This a second change on the textfile.
 Changes through develop branch.
 Add in experimental branch.
+<<<<<<< HEAD
 >>>>>>> experimental-test
 The second time: Add in new comments in experimental branch.
 This is the new line created by experimental-test2.
 
 PC1 made some changes.
+=======
+The second time: Add in new comments in experimental branch
+
+PC2 made some changes.
+>>>>>>> experimental-test
